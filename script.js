@@ -8,5 +8,6 @@ const moodContainer = document.getElementById('mood-container');
     const moodElement = document.createElement('div');
     moodElement.innerHTML = `<span>${date}: ${randomMood}</span>`;
     moodContainer.appendChild(moodElement);
-    });
+    //modified code
+   });
    
