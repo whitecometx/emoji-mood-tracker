@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#mood-container {
+    margin: 20px 0;
+    font-size: 24px;
+}
